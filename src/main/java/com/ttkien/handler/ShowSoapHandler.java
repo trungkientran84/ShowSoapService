@@ -51,7 +51,7 @@ public class ShowSoapHandler implements SOAPHandler<SOAPMessageContext> {
                         if(value.toLowerCase().contains("disney")) {
                              SOAPFault fault = null;
                             fault = message.getSOAPBody().addFault();
-                            fault.setFaultString("disney word is not allow in any field.");
+                            fault.setFaultString("[disney] word is not allow in any field.");
                             throw new SOAPFaultException(fault);
                         }
                     }
