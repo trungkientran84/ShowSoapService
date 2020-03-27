@@ -1,0 +1,8 @@
+com/ttkien/service/ShowsSoapService.class
+com/ttkien/controller/ShowsJpaController.class
+com/ttkien/entity/Shows_.class
+com/ttkien/controller/exceptions/PreexistingEntityException.class
+com/ttkien/entity/Shows.class
+com/ttkien/handler/ShowSoapHandler.class
+com/ttkien/controller/exceptions/IllegalOrphanException.class
+com/ttkien/controller/exceptions/NonexistentEntityException.class

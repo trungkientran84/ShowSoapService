@@ -1,0 +1,7 @@
+/Cloud/DRIVE/STUDY/Sem-04/ITE-5435-0NA-Enterprise/labs/E-Asgn02-SoapService/src/main/java/com/ttkien/controller/exceptions/IllegalOrphanException.java
+/Cloud/DRIVE/STUDY/Sem-04/ITE-5435-0NA-Enterprise/labs/E-Asgn02-SoapService/src/main/java/com/ttkien/entity/Shows.java
+/Cloud/DRIVE/STUDY/Sem-04/ITE-5435-0NA-Enterprise/labs/E-Asgn02-SoapService/src/main/java/com/ttkien/controller/ShowsJpaController.java
+/Cloud/DRIVE/STUDY/Sem-04/ITE-5435-0NA-Enterprise/labs/E-Asgn02-SoapService/src/main/java/com/ttkien/controller/exceptions/PreexistingEntityException.java
+/Cloud/DRIVE/STUDY/Sem-04/ITE-5435-0NA-Enterprise/labs/E-Asgn02-SoapService/src/main/java/com/ttkien/controller/exceptions/NonexistentEntityException.java
+/Cloud/DRIVE/STUDY/Sem-04/ITE-5435-0NA-Enterprise/labs/E-Asgn02-SoapService/src/main/java/com/ttkien/handler/ShowSoapHandler.java
+/Cloud/DRIVE/STUDY/Sem-04/ITE-5435-0NA-Enterprise/labs/E-Asgn02-SoapService/src/main/java/com/ttkien/service/ShowsSoapService.java
